@@ -2,6 +2,10 @@
 
 Este tutorial orienta você sobre como aplicar um Manifesto Ágil e configurar um Service Worker em seu projeto.
 
+
+https://github.com/marco0antonio0/como-aplicar-manifestoAgil-e-serviceWorker/assets/72234855/2ca6c7d9-2d9a-4f7d-be84-d1706f586ad5
+
+
 ## Estrutura de pastas
 
 ```bash
